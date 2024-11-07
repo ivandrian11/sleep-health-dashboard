@@ -1,3 +1,5 @@
 .venv
 .idea
 __pycache__
+dashboard/__pycache__
+url.txt

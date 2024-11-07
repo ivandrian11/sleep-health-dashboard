@@ -97,4 +97,6 @@ To stop the Streamlit application, you can use `Ctrl + C` in the terminal where 
 
 - If you make changes to the code or install new packages, you might need to restart the Streamlit server to see the changes reflected.
 
-- For any additional features or specific usage instructions, refer to the documentation within the application or check the comments in the code.
+- For more information on Streamlit features and functions, refer to the [Streamlit Cheat Sheet](https://docs.streamlit.io/develop/quick-reference/cheat-sheet).
+
+- To learn how to deploy your Streamlit application, check the instructions at [Deploying Streamlit Apps](https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app).
